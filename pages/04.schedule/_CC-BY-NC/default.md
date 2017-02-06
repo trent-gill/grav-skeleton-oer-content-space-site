@@ -22,7 +22,7 @@ title: 'WEEK 2'
 
 This session will introduce students to writing practices and conventions in an academic context. We will discuss the purposes writing serves in university and how it is a tool for communicating our knowledge of culture, society, and all areas of academic inquiry. 
 
-Our primary takeaway and guiding principle for this discussion is that writing is not only the way in which we communicate our ideas and knowledge but also _our primary means _of knowing and thinking. This context will inform how I introduce the basic strategies and principles used to approach each writing task in university. 
+Our primary takeaway and guiding principle for this discussion is that writing is not only the way in which we communicate our ideas and knowledge but also _our primary means_ of knowing and thinking. This context will inform how I introduce the basic strategies and principles used to approach each writing task in university. 
 
 During this class, we will also start a conversation about the "academic style." The underlying concepts of this discussion will lead us to various avenues throughout the semester, all in an effort to identify what constitutes "good writing" and how we can apply that knowledge to our work. 
 
