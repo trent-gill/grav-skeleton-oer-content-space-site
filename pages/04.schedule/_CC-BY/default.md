@@ -1,10 +1,12 @@
 ---
-title: 'WEEK 1'
+title: WEEK 1
 ---
 
-**WEEK 1: Introduction to UW 30:151**
+**Week 1: Introduction to UW 30:151**
 
-In our first class of the semester, we will go over the [course syllabus](https://hashtagliteracy.squarespace.com/syllabus) and discuss its learning objectives. The [handout](https://hashtagliteracy.squarespace.com/skills) we will review summarizes what skills you need to succeed in this course. I emphasize the importance of this summary because knowing and developing these skills will help you write at the university level.
+In our first class of the semester, we will go over the [course syllabus](https://hashtagliteracy.squarespace.com/syllabus) and discuss its learning objectives.
+
+The [handout](https://hashtagliteracy.squarespace.com/skills) we will review summarizes what skills you need to succeed in this course. I emphasize the importance of this summary because knowing and developing these skills will help you write at the university level.
 
 Students will also learn what to expect from the course, how it is organized, and how their work will be assessed. 
 
