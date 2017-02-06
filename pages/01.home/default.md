@@ -9,41 +9,22 @@ external_links:
     mode: active
 ---
 
-## Open Educational Resources (OER)
+# Welcome to University Writing 30:151
 
-### What is OER?
-Open educational resources (OER) are free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes.
+Welcome to the website for University Writing 30:151. I've built this simple resource to help students get started with the course and stay organized throughout the semester. It is the easiest way to check deadlines, access readings and slides, and stay informed about changes to the course schedule. You can also find links to other tools and resources that we'll use throughout the semester. 
 
-Open Education "...is the simple and powerful idea that the world’s knowledge is a public good and that technology in general and the Web in particular provide an extraordinary opportunity for everyone to share, use, and reuse knowledge."
-— [The William and Flora Hewlett Foundation](http://www.hewlett.org/programs/education-program/open-educational-resources)
+If you're a student in UW 30:151, I recommend getting familiar with the website so you can quickly find things as you need them. You can follow the links below or use the menu to browse around and familiarize yourself with this resource. 
 
-### OER Definitions
-**[The William and Flora Hewlett Foundation](http://www.hewlett.org/programs/education-program/open-educational-resources)**  
-"OER are teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and re-purposing by others. Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge." [1]
+[**SYLLABUS**](/syllabus) - The syllabus describes and outlines the course. It includes assignment weights, guidelines, and deadlines. Other important dates, such as tests and workshops, can be found here. 
 
-**[OECD (Organization for Economic Co-operation and Development)](https://www.oecd.org/dataoecd/35/7/38654317.pdf)**  
-"digitised materials offered freely and openly for educators, students, and self-learners to use and reuse for teaching, learning, and research. OER includes learning content, software tools to develop, use, and distribute content, and implementation resources such as open licences."
+[**SKILLS**](/skills) - This handout summarizes the main skills that you will develop throughout the course. Use this summary to gauge your progress throughout the semester. You should also consult the skills summary to strengthen your writing process for each assigned essay. How well you demonstrate these skills will determine your grade. 
 
-**[UNESCO](http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/world-open-educational-resources-congress/)**  
-"teaching, learning and research materials in any medium, digital or otherwise, that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions."
+[**SCHEDULE**](/schedule) - This part of the website outlines the topics and readings we will discuss on the scheduled dates. You must complete the pre-class reading _before_attending each lecture. Each "event" is a class in which we will cover topics that are previewed in the event description. 
 
-**[The Cape Town Open Education Declaration](http://www.capetowndeclaration.org/read-the-declaration)**  
-"[O]pen educational resources should be freely shared through open licences which facilitate use, revision, translation, improvement and sharing by anyone. Resources should be published in formats that facilitate both use and editing, and that accommodate a diversity of technical platforms. Whenever possible, they should also be available in formats that are accessible to people with disabilities and people who do not yet have access to the Internet."
+[**ASSIGNMENTS**](/assignments) - A resource to find assignment instructions and guidelines. Assignment instructions are published to Google Drive and can be accessed at any time; however, I may make changes to the instruction doc before I distribute it in class. These instructions are usually distributed a month before the deadline, so use this time wisely to produce your best work. 
 
-**[The Wikieducator OER Handbook](http://www.wikieducator.org/OER_Handbook/educator_version_one)**  
-"The term "Open Educational Resource(s)" (OER) refers to educational resources (lesson plans, quizzes, syllabi, instructional modules, simulations, etc.) that are freely available for use, reuse, adaptation, and sharing."
+[**SLIDES**](https://www.slides.com/trentgill) - All of the slides I use in class are published to my profile on slides.com. They are organized by date. Keep in mind that the slides are not substitutes for the lectures. I use them as a visual and structural aid, not as a place to dump information, so they are skeletal by design. 
 
-**[OER Commons](http://www.oercommons.org/about#about-open-educational-resources)**  
-"Open Educational Resources are teaching and learning materials that you may freely use and reuse, without charge. OER often have a Creative Commons or GNU license that state specifically how the material may be used, reused, adapted, and shared."
+The other items in the menu are self-explanatory, except perhaps **Slack**. [Slack](http://slack.com/) is a group communication tool for discussing course content and whatever else comes up. Please contact me via email if you haven't received an invite. Only students who are officially registered in the course at Brandon University can access our Slack team. 
 
-[Text](https://wiki.creativecommons.org/wiki/What_is_OER%3F) by [creativecommons.org](https://wiki.creativecommons.org), available under a Creative Commons Attribution 4.0 license.
-
-Edit this page.
-
-Second edit to this page.
-
-Third edit to this page.
-
-Here is an edit. 
-
-Here is yet another edit. Check this out. 
+Thanks for your interest in this course and feel free to ask questions in the comments! Don't forget to introduce yourself on Slack once I've sent you an invite. 
