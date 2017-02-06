@@ -1,5 +1,12 @@
 ---
 title: Home
+hide_git_repo_link: false
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
 ---
 
 ## Open Educational Resources (OER)
@@ -30,3 +37,5 @@ Open Education "...is the simple and powerful idea that the world’s knowledge 
 "Open Educational Resources are teaching and learning materials that you may freely use and reuse, without charge. OER often have a Creative Commons or GNU license that state specifically how the material may be used, reused, adapted, and shared."
 
 [Text](https://wiki.creativecommons.org/wiki/What_is_OER%3F) by [creativecommons.org](https://wiki.creativecommons.org), available under a Creative Commons Attribution 4.0 license.
+
+Edit this page. 
