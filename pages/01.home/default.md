@@ -39,3 +39,5 @@ Open Education "...is the simple and powerful idea that the world’s knowledge 
 [Text](https://wiki.creativecommons.org/wiki/What_is_OER%3F) by [creativecommons.org](https://wiki.creativecommons.org), available under a Creative Commons Attribution 4.0 license.
 
 Edit this page. 
+
+Second edit to this page. 
