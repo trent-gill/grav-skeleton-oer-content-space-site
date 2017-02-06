@@ -1,5 +1,5 @@
 ---
-title: WEEK 1
+title: 'WEEK 1'
 ---
 
 **Week 1: Introduction to UW 30:151**
