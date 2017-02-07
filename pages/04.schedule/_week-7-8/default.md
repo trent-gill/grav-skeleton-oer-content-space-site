@@ -2,7 +2,7 @@
 title: 'WEEK 7-8'
 ---
 
-## Week 7-8 Thesis Statements, Esssay Structure, and Argumentation  
+## Week 7-8: Thesis Statements, Esssay Structure, and Argumentation  
 
 **Pre-Class Readings**
 
