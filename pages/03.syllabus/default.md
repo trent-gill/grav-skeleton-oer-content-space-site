@@ -8,21 +8,21 @@ title: Syllabus
 
 **Email:** [**gillt@brandonu.ca**](mailto:gillt@brandonu.ca)
 
-## Course Description:
+## Course Description
 
 This course introduces students to the strategies and principles of writing an academic essay. Throughout the semester, students will learn and practise the foundational skills of academic inquiry and thesis-based writing. The topics studied in depth include essay and paragraph structure, thesis statements, argumentation and exposition, evaluating and using evidence, citation practices, and more. We will also discuss how skillful uses of language—grammar, usage, diction, style, and tone—contribute to effective academic writing. Although topics will vary between conceptual and practical, the main objective of the course is for students to understand the relationship between quality and clarity of thought and expression. Students are primarily assessed on the writing and research demonstrated in the assigned essays, whose topics and content are chosen from assigned lists or developed in consultation with the instructor.
 
-## Texts:
+## Texts
 
 Moran, Michael and L. Karen Soiferman. _A Student&#39;s Guide to Academic Writing._ Don Mills: Pearson, 2014. Print.
 
 Other assigned readings available online.
 
-**Optional:**
+**Optional**
 
 Engkent, Lucia and Garry Engkent. _Essay Do&#39;s and Don&#39;ts: A Practical Guide to Essay Writing._ Don Mills: Oxford UP, 2013. Print.
 
-## Assignment Schedule and Assessment:
+## Assignment Schedule and Assessment
 
 [Assignment instructions](/assignments) will be distributed throughout the semester. Please read the instructions carefully and refer to the summary of skills handout for assessment guidelines. Page totals for assigned essays do not include the title page, endnotes, or bibliography. (Assignment instructions are also available online. See below.)
 
