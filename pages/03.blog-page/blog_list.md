@@ -1,5 +1,5 @@
 ---
-title: 'Blog Page'
+title: Blog
 hide_git_repo_link: false
 sitemap:
     changefreq: monthly
