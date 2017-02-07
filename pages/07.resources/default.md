@@ -47,6 +47,10 @@ You'll notice that most of these texts are affiliated with post-secondary instit
 * [The Chicago Manual of Style Online](http://www.chicagomanualofstyle.org/tools_citationguide.html)
 * [The Basics of APA Style](http://www.apastyle.org/learn/index.aspx)
 
+## Courses
+
+* [Basic Reading and Writing](https://courses.lumenlearning.com/basicreadingandwriting/) (Lumen Learning)
+
 ## Plagiarism and Academic Dishonesty
 
 The University imposes serious penalties on students whose assignments and tests contain evidence of dishonesty or misconduct (see Section 4.2.2 of the General Calendar). Plagiarism in any form will not be tolerated, and it is an offense that I take very seriously. Your essays are subject to scrutiny in many aspects, and I consider carelessness in citation or misrepresenting another's ideas as your own to be inexcusable. Although we will discuss plagiarism in class, you should still be familiar with the University's policy on academic dishonesty. If you use the ideas or words of another source, please *clearly* cite and attribute using the techniques I discuss in class. 
