@@ -2,7 +2,7 @@
 title: 'WEEK 2'
 ---
 
-**WEEK 2: Introduction to Academic Writing**
+## Week 2: Introduction to Academic Writing
 
 **Pre-Class Readings**
 
@@ -28,4 +28,4 @@ During this class, we will also start a conversation about the "academic style."
 
 **Associated Links**
 
-- [Slides](https://slides.com/trentgill/)
+- [Slides](http://slides.com/trentgill/uw-week2#/)
