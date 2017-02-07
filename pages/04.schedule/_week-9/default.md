@@ -2,7 +2,7 @@
 title: 'WEEK 9'
 ---
 
-**WEEK 9: Peer Review Workshop**
+## WEEK 9: Peer Review Workshop
 
 No pre-class readings this week. Please use the time to prepare a draft of your argumentative essay, whose instructions are available [here](/assignments). During your writing process, you should refer to the [summary of skills](/skills) for reminders on elements of critical essays. 
 
@@ -10,4 +10,4 @@ After a close overview of a sample argumentative essay, you'll break into groups
 
 **Associated Links**:
 
-[Slides](http://slides.com/trentgill/uw-march-8#/)
+* [Slides](http://slides.com/trentgill/uw-march-8#/)
