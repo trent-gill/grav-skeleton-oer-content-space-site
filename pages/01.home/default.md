@@ -19,7 +19,7 @@ If you're a student in UW 30:151, I recommend getting familiar with the website 
 
 [**SKILLS**](/skills) - This handout summarizes the main skills that you will develop throughout the course. Use this summary to gauge your progress throughout the semester. You should also consult the skills summary to strengthen your writing process for each assigned essay. How well you demonstrate these skills will determine your grade. 
 
-[**SCHEDULE**](/schedule) - This part of the website outlines the topics and readings we will discuss on the scheduled dates. You must complete the pre-class reading _before_attending each lecture. Each "event" is a class in which we will cover topics that are previewed in the event description. 
+[**SCHEDULE**](/schedule) - This part of the website outlines the topics and readings we will discuss on the scheduled dates. You must complete the pre-class reading *before* attending each lecture. Each "event" is a class in which we will cover topics that are previewed in the event description. 
 
 [**ASSIGNMENTS**](/assignments) - A resource to find assignment instructions and guidelines. Assignment instructions are published to Google Drive and can be accessed at any time; however, I may make changes to the instruction doc before I distribute it in class. These instructions are usually distributed a month before the deadline, so use this time wisely to produce your best work. 
 
