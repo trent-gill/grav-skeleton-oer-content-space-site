@@ -4,9 +4,9 @@ title: Assignments
 
 # Assignments
 
-University Writing 30:151 is a writing-intensive course in which your grades are largely determined by three essays and one bibliography.
+University Writing 30:151 is a writing-intensive course in which your grades are largely determined by three essays and one annotated bibliography.
 
-All submitted work must be formatted using MLA or APA guidelines. Please view the sample MLA essay below for an example that follows formatting, documentation, and citation guidelines. Although each assigned essay has its own unique requirements, your writing should always demonstrate the conventions we discuss in class. The [skills summary](https://hashtagliteracy.squarespace.com/skills) outlines some of these conventions and is meant to serve as the overarching "checklist" for our assignments. Checklists for more specific essay elements can be found in the  textbook. 
+All submitted work must be formatted using MLA or APA guidelines. Please view the sample MLA essay below for an example that follows formatting, documentation, and citation guidelines. Although each assigned essay has its own requirements, your writing should always demonstrate the conventions we discuss in class. The [skills summary](/skills) outlines some of these conventions and is meant to serve as the overarching "checklist" for your assignments. As I emphasize in class, conventions can change with context. However, we will also discuss conventions that are consistent across genres: clarity, coherence, and conciseness, among others. 
 
 I also highly recommend reading Catherine Savini's excellent chapter on how to approach writing assignments in university:
 
