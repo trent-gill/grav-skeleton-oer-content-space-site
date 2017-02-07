@@ -2,16 +2,15 @@
 title: 'WEEK 7-8'
 ---
 
-**WEEK 7-8: Thesis Statements and Argumentation **  
+## Week 7-8 Thesis Statements, Esssay Structure, and Argumentation  
 
 **Pre-Class Readings**
 
 February 23 - 1: Thesis Statements and Essay Structure
 
-- _A Student's Guide to Academic Writing _(Moran & Soiferman): 
+- _A Student's Guide to Academic Writing_ (Moran & Soiferman): 
     - Chapter 2 (pages 37 - 51) 
     - Chapters 8 - 10 (Introductory Paragraphs, Transitions, Conclusions) 
-
 - [Thesis Statements](http://writingcenter.unc.edu/handouts/thesis-statements/) (University of North Carolina) 
 - [Writing a Thesis and Making an Argument](http://clas.uiowa.edu/history/teaching-and-writing-center/guides/argumentation) (University of Iowa) 
 - [Developing Your Thesis](https://writing-speech.dartmouth.edu/learning/materials/materials-first-year-writers/developing-your-thesis) (Dartmouth Institute for Writing and Rhetoric) 
