@@ -8,6 +8,8 @@ title: Syllabus
 
 **Email:** [**gillt@brandonu.ca**](mailto:gillt@brandonu.ca)
 
+**Twitter:** [@trent_g](http://twitter.com/trent_g)
+
 ## Course Description
 
 This course introduces students to the strategies and principles of writing an academic essay. Throughout the semester, students will learn and practise the foundational skills of academic inquiry and thesis-based writing. The topics studied in depth include essay and paragraph structure, thesis statements, argumentation and exposition, evaluating and using evidence, citation practices, and more. We will also discuss how skillful uses of language—grammar, usage, diction, style, and tone—contribute to effective academic writing. Although topics will vary between conceptual and practical, the main objective of the course is for students to understand the relationship between quality and clarity of thought and expression. Students are primarily assessed on the writing and research demonstrated in the assigned essays, whose topics and content are chosen from assigned lists or developed in consultation with the instructor.
@@ -52,7 +54,7 @@ All assignment instructions and essay questions are available on the [online cou
 
 **Academic dishonesty**
 
-The university imposes serious penalties on students whose assignments and tests contain evidence of dishonesty or misconduct (see Section 4.2.2 of the General Calendar). Plagiarism in any form will not be tolerated, and it is an offense that I take very seriously. Your essays are subject to scrutiny in many aspects, and I consider carelessness in citation or misrepresenting another&#39;s ideas as your own to be inexcusable. Although we will discuss plagiarism in class, you should still be familiar with Brandon University&#39;s policy on academic dishonesty. It is available on the Brandon University website.
+The university imposes serious penalties on students whose assignments and tests contain evidence of dishonesty or misconduct (see Section 4.2.2 of the General Calendar). Plagiarism in any form will not be tolerated, and it is an offense that I take very seriously. Your essays are subject to scrutiny in many aspects, and I consider carelessness in citation or misrepresenting another&#39;s ideas as your own to be inexcusable. Although we will discuss plagiarism in class, you should still be familiar with the University&#39;s policy on academic dishonesty.
 
 **Communication**
 
