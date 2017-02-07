@@ -2,13 +2,9 @@
 title: Syllabus
 ---
 
-University Writing 30:151 (Winter 2016)
+# University Writing 30:151
 
 **Instructor: Trent Gill**
-
-**Office: McKenzie Building 006**
-
-**Office hours: Monday 4 PM – 6 PM &amp; by appointment**
 
 **Email:** [**gillt@brandonu.ca**](mailto:gillt@brandonu.ca)
 
