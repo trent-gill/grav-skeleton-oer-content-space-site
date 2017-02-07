@@ -27,4 +27,12 @@ If you're a student in UW 30:151, I recommend getting familiar with the website 
 
 The other items in the menu are self-explanatory, except perhaps **Slack**. [Slack](http://slack.com/) is a group communication tool for discussing course content and whatever else comes up. Please contact me via email if you haven't received an invite. Only students who are officially registered in the course at Brandon University can access our Slack team. 
 
-Thanks for your interest in this course and feel free to ask questions in the comments! Don't forget to introduce yourself on Slack once I've sent you an invite. 
+## GitHub
+
+On each page of this course hub you'll notice a link in the menu labelled "Edit this page on GitHub." 
+
+This website is synced with [a GitHub repository](https://github.com/trent-gill/grav-skeleton-oer-content-space-site) to allow for an open, collaborative platform that encourages students and other collaborators to copy or suggest changes to the content. 
+
+Each page is stored as a separate text file in the repository. This enables ease of updating and collaborative editing through GitHub. If you have a resource to suggest for one of the topics, feel free to add it yourself! I'm not an expert in Git, but if you would like some help getting setup on GitHub, let me know and I'll see whether I can give you some direction. 
+
+Thanks for your interest in this course and feel free to ask questions on Slack. Don't forget to introduce yourself once I've sent you an invite. 
