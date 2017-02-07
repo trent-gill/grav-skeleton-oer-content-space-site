@@ -6,8 +6,6 @@ title: Syllabus
 
 **Instructor: Trent Gill**
 
-**Email:** [**gillt@brandonu.ca**](mailto:gillt@brandonu.ca)
-
 **Twitter:** [@trent_g](http://twitter.com/trent_g)
 
 ## Course Description
