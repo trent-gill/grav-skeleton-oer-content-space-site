@@ -28,7 +28,7 @@ Engkent, Lucia and Garry Engkent. _Essay Do&#39;s and Don&#39;ts: A Practical Gu
 
 ## Assignment Schedule and Assessment:
 
-Assignment instructions will be distributed throughout the semester. Please read the instructions carefully and refer to the summary of skills handout for assessment guidelines. Page totals for assigned essays do not include the title page, endnotes, or bibliography. (Assignment instructions are also available online. See below.)
+[Assignment instructions](/assignments) will be distributed throughout the semester. Please read the instructions carefully and refer to the summary of skills handout for assessment guidelines. Page totals for assigned essays do not include the title page, endnotes, or bibliography. (Assignment instructions are also available online. See below.)
 
 1. Essay workshops (5%, dates one week before #4 and #6)
 2. First essay: 4-page expository essay (15%, due February 9)
