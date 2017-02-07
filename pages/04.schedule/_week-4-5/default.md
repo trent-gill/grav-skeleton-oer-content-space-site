@@ -2,7 +2,7 @@
 title: 'WEEK 4-5'
 ---
 
-**WEEK 4-5: Critical Reading and "I type, therefore I am"**
+## Week 4-5: Critical Reading and "I type, therefore I am"
 
 **Pre-Class Readings**
 
@@ -31,6 +31,6 @@ These topics will span two weeks. The class on February 2nd will be a more exten
 
 **Associated Links**
 
-- [Slides](https://slides.com/trentgill/)
+- [Slides](http://slides.com/trentgill/uwjan26#/)
 
 
