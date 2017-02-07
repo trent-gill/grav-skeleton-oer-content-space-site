@@ -2,7 +2,7 @@
 title: 'WEEK 3'
 ---
 
-**WEEK 3: Academic Integrity & Plagiarism**  
+## Week 3: Summary, Paraphrase, and Quotation 
 
 **Pre-Class Readings**
 
