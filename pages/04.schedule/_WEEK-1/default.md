@@ -2,7 +2,7 @@
 title: 'WEEK 1'
 ---
 
-**Week 1: Introduction to UW 30:151**
+## Week 1: Introduction to UW 30:151
 
 In our first class of the semester, we will go over the [course syllabus](/syllabus) and discuss its learning objectives.
 
@@ -14,8 +14,8 @@ The course begins with a bird's eye view of academic writing as a means of shari
 
 We start with a premise for this course and its overarching objective: to understand the relationship between the quality of your ideas and how you express them. 
 
-At the end of the class, I'll ask you to complete a casual "assignment" to introduce yourself and to reflect upon the role of a university education in your life. More details can be found in the slides. I'll also direct you to the course website, where you can find your pre-class readings under [Week 2](/schedule) in the schedule. 
+At the end of the class, I'll ask you to complete a casual "assignment" to introduce yourself and to reflect upon the role of a university education in your life. More details can be found in the slides. I'll also direct you to the course website, where you can find your pre-class readings under Week 2 in the schedule. 
 
-Associated Links
+**Associated Links**
 
-* [Slides](https://slides.com/trentgill/)
+* [Slides](http://slides.com/trentgill/uw-week1#/)
