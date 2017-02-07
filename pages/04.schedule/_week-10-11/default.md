@@ -2,7 +2,7 @@
 title: 'WEEK 10-11'
 ---
 
-**WEEK 10-11: Research (Finding, Evaluating, and Integrating Sources)**
+## Week 10-11: Research (Finding, Evaluating, and Integrating Sources)
 
 **Pre-Class Reading**
 
