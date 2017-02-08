@@ -5,7 +5,7 @@ taxonomy:
     category: blog
 ---
 
-I don't know have much of a background in coding, but I've been itching to learn how to use GitHub because it embodies almost all the features I value about the open web.
+I don't know have much of a background in coding, but I've been itching to learn GitHub because it embodies the features I value most about the open web.
 
 GitHub is primarily used as a code-sharing platform for developers who collaborate on open source projects. It's true that most of the projects hosted on GitHub in repositories are made up of code, and most of the workflows are optimized for programmers. However, GitHub is well equipped to deal with text files and Markdown, a flexible file format that is quickly becoming the standard for portable web writing. As an open and collaborative platform that deals with text files, GitHub provides an ideal system for authors (and educators) to share, collaborate, and maintain their content in the open. I first started thinking about the possibilities of GitHub for educators from Paul Hibbitts, but I also tip my hat to the team at MacStories for sharing their workflow for collaborative content. Federico Viticci is always looking for ways to optimize his workflow, and as a heavy iPad user myself, I am indebted to [his guide for using GitHub and iOS apps](https://www.macstories.net/stories/one-year-of-ipad-pro/7/#github-and-markdown-editing) in this way:
 
