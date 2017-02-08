@@ -25,6 +25,8 @@ Using Working Copy in combination with Git Sync and Grav solves that problem. I 
 
 My [personal blog](http://blog.trentgill.ca/) currently runs on [Ghost](http://ghost.org). I chose Ghost after deciding that WordPress was too bloated for my purposes and Grav a little too complex for my needs. Ghost has kept things simple for me; however, I haven't found a good solution for publishing to my site from iOS, and since most of my writing happens on the iPad, it creates some of the problems I outlined above. I wish that I could use Working Copy in conjunction with Ghost and Git Sync like I've setup for the local Grav site I'm testing. It's easy enough for me to copy and paste text formatted in Markdown to Ghost's editor, but what if I want to update the content after it's already published? Then, I have two versions that are out of sync: one in Ghost, and one in the text editor I used to write the post in. It's one of those technical problems that doesn't seem like a big deal until you have to develop inefficient workarounds instead of actually writing. 
 
+## Workflow Summary
+
 With my iPad setup, I have the following workflows:
 
 * Write and preview full posts in 1Writer, whose document picker works seamlessly with Working Copy. 
@@ -35,3 +37,11 @@ With my iPad setup, I have the following workflows:
 My Grav install is currently running on a local machine, but this is by far the best workflow I've used for the specific scenarios I've outlined. If you're an expert in customized applets in the Workflow app, you may not have the same problems. And hey, maybe it's easier to just setup a Medium account and let the platform take care of these things for you. 
 
 The satisfaction I get from solving these problems on my own, however, makes all the trouble worthwhile. If you have any suggestions for using iOS more effectively, let me know [on Twitter](http://Twitter.com/trent_g). 
+
+## GitHub Links
+
+This article was originally written and published in the ways I describe in this article. I copied it to my personal blog for posterity, but in an open platform built with Grav, these two options appear on every page:
+
+* [View This Article in Markdown](https://raw.githubusercontent.com/trent-gill/grav-skeleton-oer-content-space-site/master/pages/02.blog/grav-git-ipad-workflow/blog_item.md)
+* [Clone or Contribute to This Article](https://github.com/trent-gill/grav-skeleton-oer-content-space-site/blob/master/pages/02.blog/grav-git-ipad-workflow/blog_item.md)
+
