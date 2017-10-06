@@ -3,17 +3,14 @@ title: Schedule
 content:
     items: '@self.modular'
     order:
-        by: default
-        dir: asc
-hide_git_repo_link: false
-external_links:
-    process: true
-    title: false
-    no_follow: true
-    target: _blank
-    mode: active
-body_classes: 'modular header-image fullwidth'
-onpage_menu: true
+        - _week-1
+        - _week-2
+        - _week-3
+        - _week-4-5
+        - _week-6
+        - _week-7-8
+        - _week-9
+        - _week-10-11
 ---
 
 # Schedule
