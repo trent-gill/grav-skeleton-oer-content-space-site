@@ -19,7 +19,3 @@ onpage_menu: true
 # Schedule
 
 University Writing loosely follows the schedule outlined here. 
-
-```
-This is an example **modular** page, where content from separate **child** pages is displayed. Each of the below definitions are contained in a separate page, and these pages can be included in multiple areas of the site.
-```
