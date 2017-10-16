@@ -1,13 +1,16 @@
 ---
 title: Home
-hide_git_repo_link: false
+hide_git_sync_repo_link: false
 external_links:
     process: true
     title: false
     no_follow: true
     target: _blank
     mode: active
+hide_git_repo_link: false
 ---
+
+! Note: this website is an archived repository for a course taught from January - April in 2016. 
 
 # Welcome to University Writing 30:151
 
