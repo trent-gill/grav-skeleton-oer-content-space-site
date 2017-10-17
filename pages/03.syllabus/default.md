@@ -5,11 +5,9 @@ hide_git_sync_repo_link: false
 
 # University Writing 30:151
 
-## Course Description
-
 This course introduces students to the strategies and principles of writing an academic essay. Throughout the semester, students will learn and practise the foundational skills of academic inquiry and thesis-based writing. The topics studied in depth include essay and paragraph structure, thesis statements, argumentation and exposition, evaluating and using evidence, citation practices, and more. We will also discuss how skillful uses of language—grammar, usage, diction, style, and tone—contribute to effective academic writing. Although topics will vary between conceptual and practical, the main objective of the course is for students to understand the relationship between quality and clarity of thought and expression. Students are primarily assessed on the writing and research demonstrated in the assigned essays, whose topics and content are chosen from assigned lists or developed in consultation with the instructor.
 
-## Texts
+### Texts
 
 Moran, Michael and L. Karen Soiferman. _A Student&#39;s Guide to Academic Writing._ Don Mills: Pearson, 2014. Print.
 
@@ -19,7 +17,7 @@ Other assigned readings available online.
 
 Engkent, Lucia and Garry Engkent. _Essay Do&#39;s and Don&#39;ts: A Practical Guide to Essay Writing._ Don Mills: Oxford UP, 2013. Print.
 
-## Assignment Schedule and Assessment
+### Assignment Schedule and Assessment
 
 [Assignment instructions](/assignments) will be distributed throughout the semester. Please read the instructions carefully and refer to the summary of skills handout for assessment guidelines. Page totals for assigned essays do not include the title page, endnotes, or bibliography. (Assignment instructions are also available online. See below.)
 
@@ -31,9 +29,9 @@ Engkent, Lucia and Garry Engkent. _Essay Do&#39;s and Don&#39;ts: A Practical Gu
 6. Third essay: 7-page research essay, with at least 4 external sources (25%, due April 5)
 7. Grammar test (10%, April 5)
 
-## [Topic Schedule](/schedule)
+### [Topic Schedule](/schedule)
 
-## Course Policies
+### Course Policies
 
 [**Assignments**](/assignments)
 
@@ -67,7 +65,7 @@ We&#39;re using a simple website to help you stay organized throughout the semes
 
 This course emphasizes the need to write clearly, concisely, and logically. I believe one component of learning how to write effectively is through understanding sentence composition. We will discuss grammar not as a set of rules you must obey but as a concrete way of improving your writing. You are expected to follow the conventions of Standard Written English in any writing you submit for this course. This expectation will prepare you to write at the university level.
 
-## Grading
+### Grading
 
 A full grading guideline will be distributed at the beginning of the semester. You should refer to the summary of skills and assignment instructions for more specific guidelines for how each essay is evaluated. The following breakdown for letter grades is used within the course:
 
