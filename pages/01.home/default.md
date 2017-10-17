@@ -12,7 +12,7 @@ hide_git_repo_link: false
 
 ! Note: this website is an archived repository for a course taught from January - April in 2016. 
 
-# Welcome to University Writing 30:151
+## Welcome to University Writing 30:151
 
 Welcome to the website for University Writing 30:151. I've built this simple resource to help students get started with the course and stay organized throughout the semester. It is the easiest way to check deadlines, access readings and slides, and stay informed about changes to the course schedule. You can also find links to other tools and resources that we'll use throughout the semester. 
 
