@@ -1,11 +1,11 @@
 ---
 title: Syllabus
+hide_git_sync_repo_link: false
 ---
 
-# University Writing 30:151
+## University Writing 30:151
 
 **Instructor: Trent Gill**
-
 **Twitter:** [@trent_g](http://twitter.com/trent_g)
 
 ## Course Description
